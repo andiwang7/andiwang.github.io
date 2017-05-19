@@ -1,1 +1,1 @@
-http://andiwang.github.io/
+andiwang.github.io
