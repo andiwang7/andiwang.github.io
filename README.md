@@ -1,2 +1,1 @@
-# andiwang
-website
+http://andiwang.github.io/
